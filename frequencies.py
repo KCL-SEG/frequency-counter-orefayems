@@ -1,6 +1,6 @@
 """Frequencies function."""
 """ENTER YOUR SOLUTION HERE!"""
-#from collections import Counter
+items = [obj(i) for i in input().split(",")]
 def frequencies(items): 
 	newList = []
 
