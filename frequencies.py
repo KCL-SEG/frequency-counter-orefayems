@@ -1,6 +1,6 @@
 """Frequencies function."""
 """ENTER YOUR SOLUTION HERE!"""
-items = [obj(i) for i in input().split(",")]
+items = [100, 'hello', '100', '100', 100]
 def frequencies(items): 
 	newList = []
 
